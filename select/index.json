@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロックンロール白書",
+  "base_artist": "Mr.FanTastiC",
+  "createdAt": "2026-02-21T06:08:14.718924Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロール白書",
+      "artist": "Mr.FanTastiC",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロール白書_Mr.FanTastiC.txt"
+    }
+  ]
+}
